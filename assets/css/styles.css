@@ -401,6 +401,11 @@ img {
   margin: 0 var(--mb-2);
 }
 
+.footer_p {
+  font-size: 1rem;
+  color-scheme: #fff;
+  margin: 0 var(--mb-2);
+}
 .footer__copy {
   font-size: var(--smaller-font-size);
 }
